@@ -1,10 +1,10 @@
-# 🛒 Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering
 
 > Unsupervised machine learning applied to real retail transaction data to identify distinct customer segments using the RFM framework.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project applies the **K-Means clustering algorithm** to segment customers of an online retail store based on their purchasing behavior. The analysis follows the industry-standard **RFM model**:
 
@@ -18,7 +18,7 @@ Each customer is represented as a single point in 3D RFM space, and K-Means grou
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 customer-segmentation-kmeans/
@@ -41,7 +41,7 @@ customer-segmentation-kmeans/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **UCI Online Retail II** — Real transactional data from a UK-based online gift retailer (2009–2011).
 
@@ -55,7 +55,7 @@ customer-segmentation-kmeans/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 ```bash
@@ -116,14 +116,14 @@ Four distinct customer segments were identified:
 
 | Segment | Total Value | Frequency | Recency | Strategy |
 |---|---|---|---|---|
-| 🏆 Champions | High | High | Low | Reward & retain |
-| 💛 Loyal Customers | Medium-High | Medium | Low-Medium | Upsell & engage |
-| ⚠️ At Risk | Medium | Low | High | Re-engage with offers |
-| 💤 Dormant | Low | Very Low | Very High | Win-back or deprioritize |
+|  Champions | High | High | Low | Reward & retain |
+|  Loyal Customers | Medium-High | Medium | Low-Medium | Upsell & engage |
+|  At Risk | Medium | Low | High | Re-engage with offers |
+|  Dormant | Low | Very Low | Very High | Win-back or deprioritize |
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 1. **Champions generate disproportionate revenue** — prioritize them in loyalty programs
 2. **At Risk customers are the highest ROI re-engagement target** — they were once active and can be won back
@@ -132,7 +132,7 @@ Four distinct customer segments were identified:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -145,10 +145,8 @@ Four distinct customer segments were identified:
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source under the [MIT License](LICENSE).
 
 ---
-
-*Built as a Data Science portfolio project — customer segmentation using unsupervised learning on real retail data.*
