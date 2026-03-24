@@ -80,7 +80,7 @@ Run all cells from top to bottom. Outputs (plots + CSV) will be saved automatica
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Step 1 — Data Cleaning
 - Removed cancelled orders (invoices starting with `C`)
