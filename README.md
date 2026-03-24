@@ -110,7 +110,7 @@ Run all cells from top to bottom. Outputs (plots + CSV) will be saved automatica
 
 ---
 
-## 📈 Results
+## Results
 
 Four distinct customer segments were identified:
 
